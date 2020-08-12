@@ -1,0 +1,1 @@
+No public email + keeping email private + allow command line pushes expose my email
