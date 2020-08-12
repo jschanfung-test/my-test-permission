@@ -3,3 +3,4 @@ changing git email to another one
 changing git email to another one, but also configured in the emails settings
 changing git username to another one
 Perform commit from web
+Perform commit from web, no hiding private email this time
