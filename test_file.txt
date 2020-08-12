@@ -1,2 +1,3 @@
 No public email + keeping email private + allow command line pushes expose my email
 changing git email to another one
+changing git email to another one, but also configured in the emails settings
